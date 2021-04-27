@@ -210,7 +210,7 @@
         <executions>
           <execution>
             <goals>
-              <goal>default-prepare-agent</goal>
+              <goal>prepare-agent</goal>
             </goals>
           </execution>
           <execution>
